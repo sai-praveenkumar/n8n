@@ -31,3 +31,4 @@ runs:
     - name: Build Project
       run: ${{ inputs.build-command }}
       shell: bash
+
